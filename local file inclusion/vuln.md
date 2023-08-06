@@ -11,6 +11,7 @@ SourceCodester Resort Reservation System 1.0 allows local file inclusion via the
 
 ## Vulnerability Code
 - index.php
+![](https://github.com/Yesec/Resort-Reservation-System/assets/19534204/4fcede75-1f2b-46ee-8af8-133905bafc8c)
 
 
 ## POC
